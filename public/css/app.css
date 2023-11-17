@@ -1,0 +1,26 @@
+nav p {
+    margin-top: 1rem;
+}
+
+.pagination-custom{
+    display: flex;
+    justify-content: end;
+    margin-right: 4rem;
+}
+
+
+.pagination-custom svg {
+    height: 1.8rem;
+}
+
+.pagination-custom div span {
+    margin-bottom: 1rem;
+}
+
+nav div span a {
+    display: none;
+}
+
+nav div span span span{
+    display: none;
+}
